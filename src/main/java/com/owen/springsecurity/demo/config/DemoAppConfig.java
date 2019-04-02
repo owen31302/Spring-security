@@ -24,6 +24,8 @@ public class DemoAppConfig {
 		
 		return viewResolver;
 	}
+
+
 	
 }
 
